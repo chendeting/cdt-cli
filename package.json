@@ -1,5 +1,5 @@
 {
-  "name": "cdt-cli",
+  "name": "candy.d.chen-cli",
   "version": "1.0.0",
   "main": "index.js",
   "bin": "cli.js",
